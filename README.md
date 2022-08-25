@@ -16,7 +16,7 @@ I will explain that how to get all kind of user permissions. It will better to m
 
 2-Open Your activity where you will ask permission and add below code ;
 
-if (ContextCompat.checkSelfPermission(this,
+    if (ContextCompat.checkSelfPermission(this,
                 Manifest.permission.ACCESS_FINE_LOCATION) !==
             PackageManager.PERMISSION_GRANTED) {
             if (ActivityCompat.shouldShowRequestPermissionRationale(this,
