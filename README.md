@@ -48,7 +48,8 @@ I will explain that how to get all kind of user permissions. It will better to m
             }
         }
      
-     <img width="960" alt="2" src="https://user-images.githubusercontent.com/88722745/186643230-896f331e-28f0-4029-b2a0-5823f9a1e6ae.png">
+
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/88722745/186643230-896f331e-28f0-4029-b2a0-5823f9a1e6ae.png">
 
      
      That' ALL 😊
